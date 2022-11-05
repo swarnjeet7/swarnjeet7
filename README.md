@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @swarnjeet7
-- 👀 I’m interested in web technologies.
+- 👋 Hi, I’m Swarnjeet Singh. I'm a Frontend Developer since August' 2015.
+- 👀 I’m interested in HTML, CSS, JavaScript, React, Redux, Typescript.
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on react or react library.
 - 📫 You can reach me swarnjeet7@gmail.com 
