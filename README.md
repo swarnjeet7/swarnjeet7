@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swarnjeet Singh. I'm a Frontend Developer.
 - 👀 I love coding, I have good grasp on HTML, CSS, SASS, LESS, JavaScript, jQuery, React, Redux, Typescript.
-- 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on react project or react library.
+- 🌱 I’m currently learning NodeJs.
+- 💞️ I’m looking to collaborate on react project or react library or node project.
 - 📫 You can reach me at swarnjeet7@gmail.com or twitt me on @swarnjeet71.
 
 <!---
